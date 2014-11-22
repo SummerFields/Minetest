@@ -1,4 +1,6 @@
-Summerfields for minetest 32x
-Adaptation of ressources pack Summerfield by LithiumSound for Minetest
+Summerfields
+for minetest 32x
+
+Adaptation of ressources pack Summerfields by LithiumSoundfor Minetest
 
 http://cuddlewoozle.github.io/SummerFields/
